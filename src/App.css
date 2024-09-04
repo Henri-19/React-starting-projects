@@ -23,6 +23,13 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+#core-concepts{
+  display: flex;
+  padding:2rem;
+  border-radius: 6px;
+  background-color: #140524;
+  box-shadow: 0 2px 8px rgba(0, 0 ,0, 0.4);
+}
 
 .App-link {
   color: #61dafb;
